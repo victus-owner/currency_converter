@@ -1,4 +1,3 @@
-
 const countryList = {
   AWG: "AW",
   ALL: "AL",
